@@ -23,6 +23,10 @@ class Auth with ChangeNotifier {
     return null;
   }
 
+  String get userId {
+    return _userId;
+  }
+
   static const params = {
     'key': 'AIzaSyBB1XDBtHOaoP0xaRCBZw3UuZd-TDaWHKE',
   };
