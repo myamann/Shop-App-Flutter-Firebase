@@ -1,16 +1,47 @@
-# shop_app
+# Shop App
 
-A new Flutter project.
 
-## Getting Started
+## Techs
+Project is created with:
+* Dart / Flutter
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Setup
+To run this project, on windows :
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+
+ # Run Android Studio
+AVD Manager => Choose any mobile device
+ 
+ # Run VsCode
+ Run => Run without debugging
+ 
+ 
+```
+  ## ScreenShots
+
+ #1
+ --
+ ![foto-1]()
+ 
+ #2
+ --
+ ![foto-2]()
+ 
+ #3
+ --
+ ![foto-3]()
+  
+ #4 
+ --
+ ![foto-4]()
+  
+ #5 
+ --
+ ![foto-5]()
+ 
+ #6
+ --
+ ![foto-6]()
